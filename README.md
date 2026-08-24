@@ -16,5 +16,5 @@ This project was developed while completing the **"[Unreal Engine 5 C++ Game Dev
 
 ## 📝 Course Attribution & Licensing
 *   **Course:** [Unreal Engine 5 C++ Game Development (Fully Updated in 5.6)](https://www.udemy.com/course/unrealcourse/)
-*   **Lead Instructors:** [Kaan Alpar]([https://udemy.com](https://www.udemy.com/user/kaan-alpar-22/)) & [GameDev.tv Team]([https://udemy.com](https://www.udemy.com/user/gamedevtv/))
+*   **Lead Instructors:** [Kaan Alpar]([https://udemy.com]) & [GameDev.tv Team]([https://udemy.com])
 *   **Baseline Material:** Core asset packages, basic mathematical formulas, and asset templates are proprietary properties of GameDev.tv. The custom code refactors, logical optimizations, and gameplay parameter extensions are entirely my own.
